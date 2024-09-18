@@ -1,0 +1,62 @@
+---
+title: "Writing exercise"
+author: "Yitong Wang"
+date: "2024-09-19"
+output-file: pdf_document
+---
+
+# Day 1:
+
+Research shows some surgeons just get better results than others. For example, in heart surgeries, doctors’ skills can really affect patient survival. People have tried to fix this by improving care around surgeries, like making sure doctors follow rules to prevent infections, but it hasn’t really closed the gap.
+
+In reality, how skilled the surgeon is might be the biggest factor. A skilled surgeon can avoid issues during surgery and usually finishes faster, which lowers the risk of problems like infections. While some studies suggest that doing more surgeries or having special training helps, not many studies have directly looked at how a surgeon’s skill impacts patient outcomes.
+
+In our study, we looked at gastric bypass surgery, which is complicated and has different results depending on the surgeon. We had 20 surgeons’ skills rated by their peers and checked how those ratings matched up with patient complications.
+
+# Day 2:
+
+Some surgeons get better results than others. Programs to improve care haven't made a big difference. The skill of the surgeon might matter more than the care around the surgery. Skilled surgeons can avoid problems and finish surgeries faster. In this study, author looked at 20 surgeons and compared their skills to how often their patients had complications.
+
+# Day 3:
+
+## **Background:** 
+
+Outcomes from complex surgeries vary greatly between hospitals and surgeons. Although surgeon skill is assumed to be a factor, there's limited data connecting skill to post-surgery outcomes.
+
+## **Methods:** 
+
+The study analyzed 20 Michigan bariatric surgeons who submitted a video of a laparoscopic gastric bypass. These were rated on technical skill by at least 10 peer surgeons. Post-surgery complications were then analyzed using patient data from a registry.
+
+## **Results:** 
+
+Skill ratings varied from 2.6 to 4.8. Lower-skilled surgeons had more complications, reoperations, and higher mortality rates.
+
+## **Conclusions:** 
+
+Surgeon skill significantly impacted outcomes, suggesting peer evaluations may help assess surgical proficiency.
+
+# Day 4:
+
+This study looked at how a surgeon’s skill affects patient outcomes after bariatric surgery. Videos of 20 surgeons performing gastric bypass were reviewed and rated by their peers. Surgeons with higher skill had fewer complications, shorter surgeries, and better overall outcomes. The results suggest that a surgeon’s technical skill is an important factor in patient safety and recovery.
+
+# Day 5:
+
+This study looked at how well a doctor's skill affects the results of weight loss operations. Other doctors watched and rated videos of 20 people doing the operations. Doctors with better skill had fewer problems, shorter operations, and better results. The study shows that a doctor's skill is important for keeping patients safe and helping them heal faster.
+
+# Day 6:
+
+## Resource:
+
+This article use detailed data to support its research and findings, which makes the conclusion more convenience.
+
+## Clarity:
+
+The article use a straightforward way to explain the research and makes readers are easy to follow the topic.
+
+## Structure:  
+
+The article follows an reasonable flow lead reader from the problems move to methods and results, help reader catch the critical points.
+
+# Day 7:
+
+One con for this article is that the article ignore how doctors be ranked and based on what aspect to evaluate a doctor is skilled or not, a more clear declaration can make the paper more transparent and convince reader.
